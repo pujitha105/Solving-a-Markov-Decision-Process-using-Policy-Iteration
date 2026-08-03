@@ -245,13 +245,13 @@ def policy_iteration(env, gamma=0.99, theta=1e-8):
 
 ## Output
 
-```text
+
 
 <img width="575" height="502" alt="image" src="https://github.com/user-attachments/assets/3cedc9d6-2972-42c8-ab76-3b602183f96e" />
 
 
 
-```
+
 
 
 
